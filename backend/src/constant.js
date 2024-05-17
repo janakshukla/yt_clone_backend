@@ -1,0 +1,1 @@
+export const DB_NAME = " YOUTUBE_FULLSTACK_JANAK"
