@@ -1,1 +1,1 @@
-export const DB_NAME = " YOUTUBE_FULLSTACK_JANAK"
+export const DB_NAME = "youtube_fullstack_janak"
